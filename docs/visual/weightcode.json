@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "00126380",
+    "name": "삼성전자",
+    "profit": 55.4,
+    "growth": 40.2,
+    "safety": 32.2,
+    "efficiency": 34.5
+  },
+  {
+    "id": "00164779",
+    "name": "SK하이닉스",
+    "profit": 31.2,
+    "growth": 14.6,
+    "safety": 23.1,
+    "efficiency": 49.4
+  },
+  {
+    "id": "01515323",
+    "name": "LG에너지솔루션",
+    "profit": 52.6,
+    "growth": 88.5,
+    "safety": 26.7,
+    "efficiency": 42.5
+  },
+  {
+    "id": "00164742",
+    "name": "현대차",
+    "profit": 55.9,
+    "growth": 57.8,
+    "safety": 38.9,
+    "efficiency": 18
+  },
+  {
+    "id": "00877059",
+    "name": "삼성바이오로직스",
+    "profit": 67.6,
+    "growth": 59.4,
+    "safety": 16.5,
+    "efficiency": 100
+  },
+  {
+    "id": "00106641",
+    "name": "기아",
+    "profit": 59.4,
+    "growth": 59.1,
+    "safety": 21,
+    "efficiency": 19.8
+  },
+  {
+    "id": "00413046",
+    "name": "셀트리온",
+    "profit": 66.8,
+    "growth": 56.1,
+    "safety": 19.9,
+    "efficiency": 100
+  },
+  {
+    "id": "00155319",
+    "name": "POSCO홀딩스",
+    "profit": 50.4,
+    "growth": 39.7,
+    "safety": 31.2,
+    "efficiency": 28.2
+  },
+  {
+    "id": "00266961",
+    "name": "NAVER",
+    "profit": 56.6,
+    "growth": 51.7,
+    "safety": 12.6,
+    "efficiency": 36
+  },
+  {
+    "id": "00126362",
+    "name": "삼성SDI",
+    "profit": 56.4,
+    "growth": 53.2,
+    "safety": 14,
+    "efficiency": 40.7
+  },
+  {
+    "id": "00356361",
+    "name": "LG화학",
+    "profit": 51.6,
+    "growth": 45.8,
+    "safety": 26.4,
+    "efficiency": 38
+  },
+  {
+    "id": "00149655",
+    "name": "삼성물산",
+    "profit": 53.9,
+    "growth": 54.9,
+    "safety": 16.8,
+    "efficiency": 23.4
+  },
+  {
+    "id": "00155276",
+    "name": "포스코퓨처엠",
+    "profit": 49.7,
+    "growth": 46.3,
+    "safety": 35.9,
+    "efficiency": 38.5
+  },
+  {
+    "id": "00164788",
+    "name": "현대모비스",
+    "profit": 53,
+    "growth": 53.3,
+    "safety": 27.5,
+    "efficiency": 29.9
+  },
+  {
+    "id": "00258801",
+    "name": "카카오",
+    "profit": 43.9,
+    "growth": 26.2,
+    "safety": 20.5,
+    "efficiency": 6.6
+  },
+  {
+    "id": "00401731",
+    "name": "LG전자",
+    "profit": 50.4,
+    "growth": 44.8,
+    "safety": 31.9,
+    "efficiency": 31.3
+  },
+  {
+    "id": "00164645",
+    "name": "HMM",
+    "profit": 67.5,
+    "growth": 36.6,
+    "safety": 89.7,
+    "efficiency": 15.4
+  },
+  {
+    "id": "00159193",
+    "name": "한국전력",
+    "profit": 25.7,
+    "growth": 50.1,
+    "safety": 82.8,
+    "efficiency": 20.7
+  },
+  {
+    "id": "00120021",
+    "name": "LG",
+    "profit": 61.3,
+    "growth": 44.5,
+    "safety": 28.6,
+    "efficiency": 25.6
+  },
+  {
+    "id": "00126186",
+    "name": "삼성에스디에스",
+    "profit": 54.3,
+    "growth": 47.1,
+    "safety": 48.3,
+    "efficiency": 8.8
+  },
+  {
+    "id": "00159616",
+    "name": "두산에너빌리티",
+    "profit": 51,
+    "growth": 58.5,
+    "safety": 23.4,
+    "efficiency": 30.3
+  },
+  {
+    "id": "00760971",
+    "name": "크래프톤",
+    "profit": 71.8,
+    "growth": 48.7,
+    "safety": 100,
+    "efficiency": 82.9
+  },
+  {
+    "id": "00181712",
+    "name": "SK",
+    "profit": 48.4,
+    "growth": 39.2,
+    "safety": 29.6,
+    "efficiency": 23
+  },
+  {
+    "id": "00126371",
+    "name": "삼성전기",
+    "profit": 54.5,
+    "growth": 41.7,
+    "safety": 22.1,
+    "efficiency": 40.7
+  },
+  {
+    "id": "01390344",
+    "name": "HD현대중공업",
+    "profit": 47,
+    "growth": 67.8,
+    "safety": 38.3,
+    "efficiency": 30.7
+  },
+  {
+    "id": "00244455",
+    "name": "KT&G",
+    "profit": 61.8,
+    "growth": 46.3,
+    "safety": 29.4,
+    "efficiency": 100
+  },
+  {
+    "id": "00159023",
+    "name": "SK텔레콤",
+    "profit": 55.4,
+    "growth": 49.1,
+    "safety": 25,
+    "efficiency": 6.6
+  },
+  {
+    "id": "00583424",
+    "name": "아모레퍼시픽",
+    "profit": 50.8,
+    "growth": 50.5,
+    "safety": 28,
+    "efficiency": 35.9
+  },
+  {
+    "id": "00126566",
+    "name": "한화에어로스페이스",
+    "profit": 57.6,
+    "growth": 82.6,
+    "safety": 53.7,
+    "efficiency": 63.5
+  },
+  {
+    "id": "00102858",
+    "name": "고려아연",
+    "profit": 53.4,
+    "growth": 44,
+    "safety": 39.2,
+    "efficiency": 30.2
+  },
+  {
+    "id": "01205851",
+    "name": "HD현대일렉트릭",
+    "profit": 60.8,
+    "growth": 100,
+    "safety": 36.4,
+    "efficiency": 60.3
+  },
+  {
+    "id": "00631518",
+    "name": "SK이노베이션",
+    "profit": 48.6,
+    "growth": 41.5,
+    "safety": 32.8,
+    "efficiency": 24.7
+  },
+  {
+    "id": "00190321",
+    "name": "KT",
+    "profit": 52.9,
+    "growth": 46.3,
+    "safety": 24.6,
+    "efficiency": 27.5
+  },
+  {
+    "id": "00164830",
+    "name": "HD한국조선해양",
+    "profit": 48.2,
+    "growth": 98.6,
+    "safety": 28.5,
+    "efficiency": 22.8
+  },
+  {
+    "id": "00111704",
+    "name": "한화오션",
+    "profit": 22,
+    "growth": 87.2,
+    "safety": 44.4,
+    "efficiency": 41.1
+  },
+  {
+    "id": "00124504",
+    "name": "포스코인터내셔널",
+    "profit": 52.3,
+    "growth": 53.6,
+    "safety": 31,
+    "efficiency": 19.5
+  },
+  {
+    "id": "01204056",
+    "name": "하이브",
+    "profit": 54.1,
+    "growth": 55.6,
+    "safety": 13.3,
+    "efficiency": 16.6
+  },
+  {
+    "id": "00126478",
+    "name": "삼성중공업",
+    "profit": 42.5,
+    "growth": 58.6,
+    "safety": 57.9,
+    "efficiency": 27.8
+  },
+  {
+    "id": "00113526",
+    "name": "대한항공",
+    "profit": 58.8,
+    "growth": 48.8,
+    "safety": 35.2,
+    "efficiency": 15.4
+  },
+  {
+    "id": "00138279",
+    "name": "S-Oil",
+    "profit": 52.9,
+    "growth": 40.8,
+    "safety": 25.9,
+    "efficiency": 21
+  },
+  {
+    "id": "00360595",
+    "name": "현대글로비스",
+    "profit": 55.6,
+    "growth": 49.8,
+    "safety": 31.5,
+    "efficiency": 15.7
+  },
+  {
+    "id": "00878696",
+    "name": "SK바이오팜",
+    "profit": 25.6,
+    "growth": 17,
+    "safety": 36.5,
+    "efficiency": 100
+  },
+  {
+    "id": "01311408",
+    "name": "에코프로머티",
+    "profit": 47.2,
+    "growth": 16.5,
+    "safety": 25.8,
+    "efficiency": 21.6
+  },
+  {
+    "id": "00145109",
+    "name": "유한양행",
+    "profit": 51.7,
+    "growth": 54.3,
+    "safety": 27,
+    "efficiency": 45.4
+  },
+  {
+    "id": "00356370",
+    "name": "LG생활건강",
+    "profit": 52,
+    "growth": 41.4,
+    "safety": 26.6,
+    "efficiency": 40
+  },
+  {
+    "id": "00105855",
+    "name": "LS ELECTRIC",
+    "profit": 54.4,
+    "growth": 59.6,
+    "safety": 34.1,
+    "efficiency": 33
+  },
+  {
+    "id": "00155212",
+    "name": "포스코DX",
+    "profit": 57,
+    "growth": 71.5,
+    "safety": 26.1,
+    "efficiency": 18.4
+  },
+  {
+    "id": "00105961",
+    "name": "LG이노텍",
+    "profit": 53.8,
+    "growth": 44.3,
+    "safety": 29,
+    "efficiency": 22.3
+  },
+  {
+    "id": "00139889",
+    "name": "SKC",
+    "profit": 35.8,
+    "growth": 2.3,
+    "safety": 32.3,
+    "efficiency": 33.5
+  },
+  {
+    "id": "01032486",
+    "name": "두산밥캣",
+    "profit": 1,
+    "growth": 45.4,
+    "safety": 24.1,
+    "efficiency": 30.2
+  },
+  {
+    "id": "00937324",
+    "name": "한국타이어앤테크놀로지",
+    "profit": 56.2,
+    "growth": 54.7,
+    "safety": 38,
+    "efficiency": 54.2
+  },
+  {
+    "id": "01205709",
+    "name": "HD현대",
+    "profit": 50.8,
+    "growth": 52.5,
+    "safety": 36.3,
+    "efficiency": 32.8
+  },
+  {
+    "id": "00904672",
+    "name": "넷마블",
+    "profit": 36.1,
+    "growth": 1,
+    "safety": 3.8,
+    "efficiency": 16.7
+  },
+  {
+    "id": "00105873",
+    "name": "LG디스플레이",
+    "profit": 25.5,
+    "growth": 1,
+    "safety": 46,
+    "efficiency": 30.9
+  },
+  {
+    "id": "00162461",
+    "name": "한화솔루션",
+    "profit": 48.7,
+    "growth": 39.9,
+    "safety": 35.3,
+    "efficiency": 44.8
+  },
+  {
+    "id": "00635134",
+    "name": "CJ제일제당",
+    "profit": 51,
+    "growth": 44.7,
+    "safety": 26.2,
+    "efficiency": 33.6
+  },
+  {
+    "id": "00309503",
+    "name": "한국항공우주",
+    "profit": 51.5,
+    "growth": 57.7,
+    "safety": 60.5,
+    "efficiency": 66.9
+  },
+  {
+    "id": "00165413",
+    "name": "롯데케미칼",
+    "profit": 46.4,
+    "growth": 29.7,
+    "safety": 19,
+    "efficiency": 23.4
+  },
+  {
+    "id": "00106119",
+    "name": "금양",
+    "profit": 24.7,
+    "growth": 1.2,
+    "safety": 26.7,
+    "efficiency": 44.5
+  },
+  {
+    "id": "00105952",
+    "name": "LS",
+    "profit": 51.9,
+    "growth": 55.5,
+    "safety": 35.9,
+    "efficiency": 30.7
+  },
+  {
+    "id": "00126308",
+    "name": "삼성E&A",
+    "profit": 59.8,
+    "growth": 57.8,
+    "safety": 30.9,
+    "efficiency": 24.4
+  },
+  {
+    "id": "00261443",
+    "name": "엔씨소프트",
+    "profit": 57.2,
+    "growth": 38.2,
+    "safety": 57.4,
+    "efficiency": 14.8
+  },
+  {
+    "id": "00126955",
+    "name": "삼양식품",
+    "profit": 60.9,
+    "growth": 58.7,
+    "safety": 21.2,
+    "efficiency": 25.2
+  },
+  {
+    "id": "00983040",
+    "name": "한진칼",
+    "profit": 100,
+    "growth": 61.5,
+    "safety": 1,
+    "efficiency": 67.2
+  },
+  {
+    "id": "01244601",
+    "name": "카카오페이",
+    "profit": 44.6,
+    "growth": 35.1,
+    "safety": 39.3,
+    "efficiency": 1
+  },
+  {
+    "id": "00231363",
+    "name": "LG유플러스",
+    "profit": 53.6,
+    "growth": 48.7,
+    "safety": 21.8,
+    "efficiency": 19.4
+  },
+  {
+    "id": "00170558",
+    "name": "코웨이",
+    "profit": 62.6,
+    "growth": 49.6,
+    "safety": 16.3,
+    "efficiency": 17
+  },
+  {
+    "id": "00106368",
+    "name": "금호석유",
+    "profit": 55.5,
+    "growth": 37.9,
+    "safety": 18.7,
+    "efficiency": 22.4
+  },
+  {
+    "id": "00261285",
+    "name": "한국가스공사",
+    "profit": 49.5,
+    "growth": 44.1,
+    "safety": 77.4,
+    "efficiency": 23.1
+  },
+  {
+    "id": "00302926",
+    "name": "현대로템",
+    "profit": 54.9,
+    "growth": 63.4,
+    "safety": 39.3,
+    "efficiency": 22.6
+  },
+  {
+    "id": "01319899",
+    "name": "SK바이오사이언스",
+    "profit": 51.3,
+    "growth": 31.6,
+    "safety": 100,
+    "efficiency": 76.2
+  },
+  {
+    "id": "00145880",
+    "name": "현대제철",
+    "profit": 49.8,
+    "growth": 38.6,
+    "safety": 23.2,
+    "efficiency": 36.2
+  },
+  {
+    "id": "00500254",
+    "name": "GS",
+    "profit": 57.4,
+    "growth": 46.5,
+    "safety": 16.1,
+    "efficiency": 17.2
+  },
+  {
+    "id": "00828497",
+    "name": "한미약품",
+    "profit": 59.4,
+    "growth": 54.5,
+    "safety": 14.2,
+    "efficiency": 53
+  },
+  {
+    "id": "00503668",
+    "name": "LIG넥스원",
+    "profit": 56.2,
+    "growth": 50.8,
+    "safety": 48.6,
+    "efficiency": 21.4
+  },
+  {
+    "id": "00148540",
+    "name": "CJ",
+    "profit": 50.1,
+    "growth": 45.7,
+    "safety": 27.7,
+    "efficiency": 20.6
+  },
+  {
+    "id": "00164478",
+    "name": "현대건설",
+    "profit": 50.5,
+    "growth": 51.2,
+    "safety": 36.4,
+    "efficiency": 35.3
+  },
+  {
+    "id": "01238169",
+    "name": "오리온",
+    "profit": 61.6,
+    "growth": 51.4,
+    "safety": 47.3,
+    "efficiency": 15.7
+  },
+  {
+    "id": "00255619",
+    "name": "강원랜드",
+    "profit": 62.9,
+    "growth": 100,
+    "safety": 18.3,
+    "efficiency": 42.9
+  },
+  {
+    "id": "00117212",
+    "name": "두산",
+    "profit": 49.7,
+    "growth": 39,
+    "safety": 27.7,
+    "efficiency": 31.6
+  },
+  {
+    "id": "00339391",
+    "name": "한화시스템",
+    "profit": 54.4,
+    "growth": 100,
+    "safety": 19.6,
+    "efficiency": 26.9
+  },
+  {
+    "id": "00138224",
+    "name": "쌍용C&E",
+    "profit": 57.8,
+    "growth": 53.8,
+    "safety": 23.3,
+    "efficiency": 29.3
+  },
+  {
+    "id": "01386916",
+    "name": "SK아이이테크놀로지",
+    "profit": 47.9,
+    "growth": 60.6,
+    "safety": 25.1,
+    "efficiency": 33.3
+  },
+  {
+    "id": "00113207",
+    "name": "대한전선",
+    "profit": 50.5,
+    "growth": 61,
+    "safety": 33.2,
+    "efficiency": 29.2
+  },
+  {
+    "id": "00164609",
+    "name": "HD현대미포",
+    "profit": 44,
+    "growth": 12.9,
+    "safety": 25.3,
+    "efficiency": 15.2
+  },
+  {
+    "id": "00108241",
+    "name": "농심",
+    "profit": 52.9,
+    "growth": 57.3,
+    "safety": 24.2,
+    "efficiency": 24.6
+  },
+  {
+    "id": "00154462",
+    "name": "아모레G",
+    "profit": 51.2,
+    "growth": 51.4,
+    "safety": 39.2,
+    "efficiency": 38.9
+  },
+  {
+    "id": "01568413",
+    "name": "F&F",
+    "profit": 76.1,
+    "growth": 53.1,
+    "safety": 19.1,
+    "efficiency": 52.2
+  },
+  {
+    "id": "00159209",
+    "name": "한전기술",
+    "profit": 53.3,
+    "growth": 68.6,
+    "safety": 23.9,
+    "efficiency": 39.5
+  },
+  {
+    "id": "00161125",
+    "name": "한온시스템",
+    "profit": 50.1,
+    "growth": 50,
+    "safety": 49,
+    "efficiency": 34.2
+  },
+  {
+    "id": "00105271",
+    "name": "KCC",
+    "profit": 50.5,
+    "growth": 98.9,
+    "safety": 28.3,
+    "efficiency": 45.2
+  },
+  {
+    "id": "00120562",
+    "name": "롯데지주",
+    "profit": 49.5,
+    "growth": 52.3,
+    "safety": 22.5,
+    "efficiency": 25.7
+  },
+  {
+    "id": "00195229",
+    "name": "휠라홀딩스",
+    "profit": 56,
+    "growth": 45.5,
+    "safety": 35.2,
+    "efficiency": 63.7
+  },
+  {
+    "id": "00122737",
+    "name": "팬오션",
+    "profit": 55.5,
+    "growth": 41.5,
+    "safety": 19.1,
+    "efficiency": 8.4
+  },
+  {
+    "id": "01042775",
+    "name": "HL만도",
+    "profit": 50.9,
+    "growth": 51.7,
+    "safety": 35.9,
+    "efficiency": 31.4
+  },
+  {
+    "id": "00113410",
+    "name": "CJ대한통운",
+    "profit": 51,
+    "growth": 49.8,
+    "safety": 23,
+    "efficiency": 12.2
+  },
+  {
+    "id": "00113997",
+    "name": "롯데에너지머티리얼즈",
+    "profit": 47.2,
+    "growth": 33.8,
+    "safety": 52.8,
+    "efficiency": 66.2
+  },
+  {
+    "id": "00165680",
+    "name": "호텔신라",
+    "profit": 50.1,
+    "growth": 47.2,
+    "safety": 75.3,
+    "efficiency": 15
+  },
+  {
+    "id": "00161426",
+    "name": "한미사이언스",
+    "profit": 57.1,
+    "growth": 58.6,
+    "safety": 5.1,
+    "efficiency": 18.1
+  },
+  {
+    "id": "00158501",
+    "name": "에스원",
+    "profit": 55.6,
+    "growth": 51.1,
+    "safety": 28.4,
+    "efficiency": 11.1
+  },
+  {
+    "id": "00140177",
+    "name": "GS리테일",
+    "profit": 49,
+    "growth": 50,
+    "safety": 17,
+    "efficiency": 14.6
+  },
+  {
+    "id": "00148276",
+    "name": "제일기획",
+    "profit": 56.1,
+    "growth": 49.1,
+    "safety": 34.3,
+    "efficiency": 34.6
+  },
+  {
+    "id": "00481454",
+    "name": "금호타이어",
+    "profit": 51.4,
+    "growth": 100,
+    "safety": 42.5,
+    "efficiency": 40.3
+  },
+  {
+    "id": "00670340",
+    "name": "씨에스윈드",
+    "profit": 49.7,
+    "growth": 61.8,
+    "safety": 38.2,
+    "efficiency": 61.8
+  },
+  {
+    "id": "01263022",
+    "name": "BGF리테일",
+    "profit": 55.4,
+    "growth": 50.6,
+    "safety": 33,
+    "efficiency": 7.3
+  },
+  {
+    "id": "00140955",
+    "name": "한솔케미칼",
+    "profit": 62.1,
+    "growth": 44.5,
+    "safety": 16.9,
+    "efficiency": 35.5
+  },
+  {
+    "id": "00144395",
+    "name": "동서",
+    "profit": 64.3,
+    "growth": 50.4,
+    "safety": 100,
+    "efficiency": 24.4
+  },
+  {
+    "id": "00148896",
+    "name": "OCI홀딩스",
+    "profit": 70.9,
+    "growth": 47.6,
+    "safety": 58.8,
+    "efficiency": 84
+  },
+  {
+    "id": "01009789",
+    "name": "코스맥스",
+    "profit": 50.6,
+    "growth": 54.7,
+    "safety": 54.4,
+    "efficiency": 33.3
+  },
+  {
+    "id": "00160588",
+    "name": "한화",
+    "profit": 51.6,
+    "growth": 52.1,
+    "safety": 93.1,
+    "efficiency": 22.6
+  },
+  {
+    "id": "00120526",
+    "name": "롯데쇼핑",
+    "profit": 48.1,
+    "growth": 51.2,
+    "safety": 24.3,
+    "efficiency": 36.7
+  },
+  {
+    "id": "00160843",
+    "name": "DB하이텍",
+    "profit": 71.1,
+    "growth": 42.8,
+    "safety": 61.9,
+    "efficiency": 22.8
+  },
+  {
+    "id": "00872984",
+    "name": "이마트",
+    "profit": 47.6,
+    "growth": 33.8,
+    "safety": 19.2,
+    "efficiency": 18.6
+  },
+  {
+    "id": "00684714",
+    "name": "풍산",
+    "profit": 53.3,
+    "growth": 45.6,
+    "safety": 26.9,
+    "efficiency": 33.5
+  },
+  {
+    "id": "00125521",
+    "name": "에스엘",
+    "profit": 56.6,
+    "growth": 68.2,
+    "safety": 26.1,
+    "efficiency": 29.5
+  },
+  {
+    "id": "00162586",
+    "name": "한올바이오파마",
+    "profit": 50.1,
+    "growth": 100,
+    "safety": 44,
+    "efficiency": 70.6
+  },
+  {
+    "id": "00141529",
+    "name": "오뚜기",
+    "profit": 55.5,
+    "growth": 54.6,
+    "safety": 22.7,
+    "efficiency": 27.3
+  },
+  {
+    "id": "00133858",
+    "name": "세방전지",
+    "profit": 53.5,
+    "growth": 58.3,
+    "safety": 26.5,
+    "efficiency": 38.5
+  },
+  {
+    "id": "00106623",
+    "name": "현대위아",
+    "profit": 48,
+    "growth": 47.5,
+    "safety": 27.5,
+    "efficiency": 27.8
+  },
+  {
+    "id": "00164724",
+    "name": "현대엘리베이",
+    "profit": 58.4,
+    "growth": 64.3,
+    "safety": 30.8,
+    "efficiency": 19.7
+  },
+  {
+    "id": "00136378",
+    "name": "신세계",
+    "profit": 54.4,
+    "growth": 45.2,
+    "safety": 15.9,
+    "efficiency": 69.4
+  },
+  {
+    "id": "00117300",
+    "name": "TCC스틸",
+    "profit": 48.6,
+    "growth": 40.7,
+    "safety": 24.3,
+    "efficiency": 28.6
+  },
+  {
+    "id": "00160047",
+    "name": "한국앤컴퍼니",
+    "profit": 61.9,
+    "growth": 44.6,
+    "safety": 12.5,
+    "efficiency": 41.8
+  },
+  {
+    "id": "01316254",
+    "name": "효성첨단소재",
+    "profit": 53.1,
+    "growth": 38.6,
+    "safety": 48.7,
+    "efficiency": 37
+  },
+  {
+    "id": "01316227",
+    "name": "효성티앤씨",
+    "profit": 48.7,
+    "growth": 100,
+    "safety": 28.5,
+    "efficiency": 24.7
+  },
+  {
+    "id": "01258507",
+    "name": "롯데웰푸드",
+    "profit": 50.1,
+    "growth": 62.6,
+    "safety": 26.2,
+    "efficiency": 25.6
+  },
+  {
+    "id": "00939331",
+    "name": "한국콜마",
+    "profit": 49.8,
+    "growth": 64.2,
+    "safety": 15.3,
+    "efficiency": 34.9
+  },
+  {
+    "id": "00776820",
+    "name": "영원무역",
+    "profit": 64.5,
+    "growth": 51.7,
+    "safety": 43,
+    "efficiency": 59.7
+  },
+  {
+    "id": "00159218",
+    "name": "한전KPS",
+    "profit": 58.2,
+    "growth": 60.2,
+    "safety": 34.5,
+    "efficiency": 41.9
+  },
+  {
+    "id": "00124540",
+    "name": "대우건설",
+    "profit": 55,
+    "growth": 50.9,
+    "safety": 43.7,
+    "efficiency": 23.5
+  },
+  {
+    "id": "01412725",
+    "name": "두산퓨얼셀",
+    "profit": 48.8,
+    "growth": 60,
+    "safety": 43.6,
+    "efficiency": 100
+  },
+  {
+    "id": "00344287",
+    "name": "HD현대인프라코어",
+    "profit": 57.4,
+    "growth": 56.9,
+    "safety": 35.4,
+    "efficiency": 64.7
+  },
+  {
+    "id": "00150244",
+    "name": "하이트진로",
+    "profit": 50.7,
+    "growth": 42,
+    "safety": 29.7,
+    "efficiency": 37.9
+  },
+  {
+    "id": "00126779",
+    "name": "삼아알미늄",
+    "profit": 50.4,
+    "growth": 46.4,
+    "safety": 29.3,
+    "efficiency": 38.7
+  },
+  {
+    "id": "00129679",
+    "name": "녹십자",
+    "profit": 48,
+    "growth": 35.3,
+    "safety": 18.8,
+    "efficiency": 67.6
+  },
+  {
+    "id": "00120030",
+    "name": "GS건설",
+    "profit": 46.2,
+    "growth": 31.8,
+    "safety": 46.9,
+    "efficiency": 35.2
+  },
+  {
+    "id": "00161693",
+    "name": "한샘",
+    "profit": 40.4,
+    "growth": 4,
+    "safety": 28.9,
+    "efficiency": 19.5
+  },
+  {
+    "id": "00132637",
+    "name": "동원시스템즈",
+    "profit": 53.9,
+    "growth": 47.6,
+    "safety": 18.3,
+    "efficiency": 38
+  },
+  {
+    "id": "00427483",
+    "name": "대웅제약",
+    "profit": 54.5,
+    "growth": 54.7,
+    "safety": 14.3,
+    "efficiency": 56.9
+  },
+  {
+    "id": "00992871",
+    "name": "종근당",
+    "profit": 60.5,
+    "growth": 64.7,
+    "safety": 28.2,
+    "efficiency": 42.1
+  },
+  {
+    "id": "01524093",
+    "name": "DL이앤씨",
+    "profit": 51.8,
+    "growth": 41.8,
+    "safety": 26.7,
+    "efficiency": 32.5
+  },
+  {
+    "id": "00138242",
+    "name": "KG모빌리티",
+    "profit": 48,
+    "growth": 100,
+    "safety": 29.4,
+    "efficiency": 18.1
+  },
+  {
+    "id": "00131780",
+    "name": "SK네트웍스",
+    "profit": 48.8,
+    "growth": 46.2,
+    "safety": 53.3,
+    "efficiency": 17.4
+  },
+  {
+    "id": "00109693",
+    "name": "DL",
+    "profit": 47.6,
+    "growth": 35.9,
+    "safety": 29.3,
+    "efficiency": 41.6
+  },
+  {
+    "id": "00140964",
+    "name": "영원무역홀딩스",
+    "profit": 65.5,
+    "growth": 52,
+    "safety": 49.9,
+    "efficiency": 63.1
+  },
+  {
+    "id": "00120076",
+    "name": "LX인터내셔널",
+    "profit": 53.4,
+    "growth": 41.3,
+    "safety": 36.9,
+    "efficiency": 15.7
+  },
+  {
+    "id": "00160302",
+    "name": "코스모화학",
+    "profit": 48.2,
+    "growth": 40,
+    "safety": 14.1,
+    "efficiency": 39.9
+  },
+  {
+    "id": "00428251",
+    "name": "현대백화점",
+    "profit": 50.4,
+    "growth": 43.2,
+    "safety": 14.5,
+    "efficiency": 75.9
+  },
+  {
+    "id": "00157681",
+    "name": "롯데정밀화학",
+    "profit": 57.2,
+    "growth": 41.7,
+    "safety": 59.3,
+    "efficiency": 24.7
+  },
+  {
+    "id": "00117188",
+    "name": "효성",
+    "profit": 47.4,
+    "growth": 49.7,
+    "safety": 16.3,
+    "efficiency": 43.9
+  },
+  {
+    "id": "00120571",
+    "name": "롯데칠성",
+    "profit": 54,
+    "growth": 49.1,
+    "safety": 29.1,
+    "efficiency": 42.4
+  },
+  {
+    "id": "00526599",
+    "name": "덴티움",
+    "profit": 71.7,
+    "growth": 51.9,
+    "safety": 19.7,
+    "efficiency": 100
+  },
+  {
+    "id": "00854997",
+    "name": "에스디바이오센서",
+    "profit": 25.3,
+    "growth": 22.3,
+    "safety": 54.3,
+    "efficiency": 41
+  },
+  {
+    "id": "00795135",
+    "name": "코오롱인더",
+    "profit": 49.9,
+    "growth": 42.5,
+    "safety": 18.6,
+    "efficiency": 45.9
+  },
+  {
+    "id": "00260383",
+    "name": "대한유화",
+    "profit": 42.1,
+    "growth": 1,
+    "safety": 16.4,
+    "efficiency": 16
+  },
+  {
+    "id": "01319808",
+    "name": "한일시멘트",
+    "profit": 57.2,
+    "growth": 62,
+    "safety": 22.1,
+    "efficiency": 30.2
+  },
+  {
+    "id": "01267170",
+    "name": "SK케미칼",
+    "profit": 52.7,
+    "growth": 37.7,
+    "safety": 36.5,
+    "efficiency": 47.1
+  },
+  {
+    "id": "00111810",
+    "name": "대웅",
+    "profit": 57.5,
+    "growth": 50.5,
+    "safety": 15.7,
+    "efficiency": 51
+  },
+  {
+    "id": "00972503",
+    "name": "일진하이솔루스",
+    "profit": 46.2,
+    "growth": 11.5,
+    "safety": 100,
+    "efficiency": 26.8
+  },
+  {
+    "id": "00117577",
+    "name": "오리온홀딩스",
+    "profit": 57.5,
+    "growth": 51.2,
+    "safety": 34.3,
+    "efficiency": 15.9
+  },
+  {
+    "id": "00145260",
+    "name": "율촌화학",
+    "profit": 45.5,
+    "growth": 1,
+    "safety": 20.1,
+    "efficiency": 38.6
+  },
+  {
+    "id": "01010110",
+    "name": "더블유게임즈",
+    "profit": 58.3,
+    "growth": 41.3,
+    "safety": 100,
+    "efficiency": 17.6
+  },
+  {
+    "id": "00269940",
+    "name": "하나투어",
+    "profit": 56.9,
+    "growth": 95.4,
+    "safety": 75.5,
+    "efficiency": 24.4
+  },
+  {
+    "id": "00767460",
+    "name": "PI첨단소재",
+    "profit": 51.6,
+    "growth": 34.9,
+    "safety": 20.1,
+    "efficiency": 31.7
+  },
+  {
+    "id": "00557508",
+    "name": "GKL",
+    "profit": 55.7,
+    "growth": 83.4,
+    "safety": 26.7,
+    "efficiency": 32.1
+  },
+  {
+    "id": "00728638",
+    "name": "한세실업",
+    "profit": 56.9,
+    "growth": 49.4,
+    "safety": 23.6,
+    "efficiency": 21.6
+  },
+  {
+    "id": "00595191",
+    "name": "후성",
+    "profit": 43,
+    "growth": 28.9,
+    "safety": 23.8,
+    "efficiency": 28.8
+  },
+  {
+    "id": "00426086",
+    "name": "TKG휴켐스",
+    "profit": 59,
+    "growth": 52.4,
+    "safety": 30.4,
+    "efficiency": 24.1
+  },
+  {
+    "id": "00231372",
+    "name": "롯데관광개발",
+    "profit": 1,
+    "growth": 53.7,
+    "safety": 100,
+    "efficiency": 18.6
+  },
+  {
+    "id": "00138792",
+    "name": "아시아나항공",
+    "profit": 61.5,
+    "growth": 81,
+    "safety": 100,
+    "efficiency": 6.1
+  },
+  {
+    "id": "00137359",
+    "name": "신풍제약",
+    "profit": 29.1,
+    "growth": 39.3,
+    "safety": 33.6,
+    "efficiency": 61.5
+  },
+  {
+    "id": "00115676",
+    "name": "KG스틸",
+    "profit": 60.6,
+    "growth": 51.8,
+    "safety": 28.9,
+    "efficiency": 24.4
+  },
+  {
+    "id": "00115977",
+    "name": "아이에스동서",
+    "profit": 58.7,
+    "growth": 46.5,
+    "safety": 34.6,
+    "efficiency": 81.1
+  },
+  {
+    "id": "00173078",
+    "name": "명신산업",
+    "profit": 62.3,
+    "growth": 71.4,
+    "safety": 33,
+    "efficiency": 25.5
+  },
+  {
+    "id": "00121941",
+    "name": "대상",
+    "profit": 50.7,
+    "growth": 45.9,
+    "safety": 38.8,
+    "efficiency": 26.6
+  },
+  {
+    "id": "00106669",
+    "name": "세아베스틸지주",
+    "profit": 51.2,
+    "growth": 47.1,
+    "safety": 31.3,
+    "efficiency": 37.6
+  },
+  {
+    "id": "00141307",
+    "name": "영풍",
+    "profit": 48,
+    "growth": 3.7,
+    "safety": 23.2,
+    "efficiency": 22.1
+  },
+  {
+    "id": "00108135",
+    "name": "녹십자홀딩스",
+    "profit": 46.1,
+    "growth": 13,
+    "safety": 17.4,
+    "efficiency": 56.9
+  }
+]
